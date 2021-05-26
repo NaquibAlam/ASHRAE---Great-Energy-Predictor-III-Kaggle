@@ -4,5 +4,5 @@ The kaggle notebooks for these files can be found at:
 * https://www.kaggle.com/jaseziv83/a-deep-dive-eda-into-all-variables
 * https://www.kaggle.com/corochann/ashrae-training-lgbm-by-meter-type
 * https://www.kaggle.com/aitude/ashrae-hyperparameter-tuning
-
+* https://www.kaggle.com/corochann/optuna-tutorial-for-hyperparameter-optimization
 
